@@ -19,4 +19,6 @@ let getLinksTopPost = (tag, cb) => {
   })
 }
 
-module.exports = getLinksTopPost
+module.exports = {
+  'getLinksTopPost': getLinksTopPost
+}
