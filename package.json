@@ -1,11 +1,31 @@
 {
   "name": "scragram",
   "version": "0.0.2",
-  "description": "",
+  "description": "Scraped the instagram",
+  "homepage": "https://github.com/juandav/scragram/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "Juan David <e.juandav@gmail.com>",
+  "contributors": [
+    "Juan David <e.juandav@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juandav/scragram.git"
+  },
+  "bugs": "https://github.com/juandav/scragram/issues",
+  "keywords": [
+    "instagram",
+    "scraping",
+    "scraped",
+    "colombia",
+    "col",
+    "api"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
 }
