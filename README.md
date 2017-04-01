@@ -1,4 +1,4 @@
-# Scragram
+# Scragram [![License][license-img]][license-url]
 
 [![NPM](https://nodei.co/npm/scragram.png?downloads=true)](https://nodei.co/npm/scragram/)
 
@@ -42,3 +42,6 @@ scragram yourhashtag
 ```
 scragram streaming
 ```
+
+[license-url]: https://choosealicense.com/licenses/mit/
+[license-img]: https://img.shields.io/github/license/juandav/scragram.svg?style=flat-square
